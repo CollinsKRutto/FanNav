@@ -1,0 +1,2 @@
+# FanNav
+Worlcup convinience tool
