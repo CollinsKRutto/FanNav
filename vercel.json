@@ -5,10 +5,10 @@
   "framework": "vite",
   "functions": {
     "api/verify-order.js": {
-      "runtime": "edge"
+      "runtime": "@vercel/node@20.x"
     },
     "api/paypal-webhook.js": {
-      "runtime": "edge"
+      "runtime": "@vercel/node@20.x"
     }
   },
   "routes": [
